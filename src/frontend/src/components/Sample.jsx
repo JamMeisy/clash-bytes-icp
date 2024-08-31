@@ -7,7 +7,7 @@ const Sample = () => {
       {/* Image on the Left */}
       <div className="w-full md:w-1/2 flex justify-center mb-6 md:mb-0">
         <img 
-          src="/public/sample2.jpg"
+          src="/sample2.jpg"
           alt="Sample Image" 
           className="rounded-lg max-w-full h-auto"
         />

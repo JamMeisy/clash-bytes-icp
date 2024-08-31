@@ -6,7 +6,7 @@
         <div className="container mx-auto flex justify-between items-center px-4">
             {/* Smaller Logo */}
             <img 
-            src="/public/header-logo.svg" 
+            src="/header-logo.svg" 
             alt="Clash Bytes Logo" 
             className="h-6 md:h-8 w-auto" 
             style={{ maxWidth: '100px', height: 'auto' }} 
